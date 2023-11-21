@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Kalliu Brasil. I've been a Software Engineer since 2019 and my greatest skills are with JavaScript/TypeScript and React. You can count on me to design, develop and deliver amazing user-friendly software solutions!
+
+🎨 [Check out my portfolio!](https://kalliu.com)
+
+💼 [Reach me out on LinkedIn](https://www.linkedin.com/in/kalliub/)
+
+📫 Or e-mail me: kalliub@gmail.com
+
 <!--
 **kalliub/kalliub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
